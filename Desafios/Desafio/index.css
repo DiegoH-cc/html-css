@@ -1,0 +1,28 @@
+/* Comentários podem ser incluídos usando a sintaxe /* comentário */
+
+/* Definição de regra de estilo */
+seletor {
+    transition-property: valor;
+    transition-property: valor;
+    /* ... */
+  }
+  
+  /* Exemplo de regras de estilo */
+  body {
+    background-image: url(Imagem-DD_Easy-Resize.com.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+  }
+  
+  
+  h1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #ff0606;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
